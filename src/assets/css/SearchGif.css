@@ -1,0 +1,17 @@
+
+.search-input{
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px #919191 solid;
+}
+
+.search-input:active{
+  border: 2px #919191 solid;
+}
+
+.search-box{
+  display: flex;
+  justify-content: center;
+
+  margin-top: 70px;
+}
